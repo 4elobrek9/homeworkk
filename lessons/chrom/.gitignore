@@ -1,0 +1,6 @@
+# venv
+.venv
+.env
+chromedriver-win64
+# logs
+*.log
